@@ -17,11 +17,21 @@ I like to write code :desktop_computer: and create interesting and user-friendly
 
 ### Languages and Tools:
 
-<img align="left" alt="React" width="22px" src="https://www.svgrepo.com/show/354259/react.svg"/>
-<img align="left" alt="Redux" width="30px" src="https://www.svgrepo.com/show/452093/redux.svg"/>
-<img align="left" alt="Vue" width="30px" src="https://www.svgrepo.com/show/452130/vue.svg"/>
-<img align="left" alt="JavaScript" width="22px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/>
-<img align="left" alt="HTML5" width="22px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/>
-<img align="left" alt="CSS" width="22px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/>
-<img align="left" alt="Sass" width="30px" src="https://www.svgrepo.com/show/374061/sass.svg"/>
-<img align="left" alt="Figma" width="22px" src="https://www.svgrepo.com/show/353733/figma.svg"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+
+## <img src="https://komarev.com/ghpvc/?username=maryakaysina&label=Profile%20views&color=0e75b6&style=flat" alt="maryakaysina" />
+
+## <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryakaysina&show_icons=true&locale=en&layout=compact" alt="maryakaysina" />
+
